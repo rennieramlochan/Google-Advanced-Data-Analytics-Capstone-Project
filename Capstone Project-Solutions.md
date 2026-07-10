@@ -1,5 +1,5 @@
 # Cyclistic Case Study using SQL and Tableau
-#### Prepared by: Edward Aguilar
+
 
 ## Introduction
 This project serves as the culminating assignment for my Google Data Analytics course, focusing on utilizing SQL and Tableau. Within this case study, I will simulate the responsibilities of a junior data analyst at Cyclistic, a fictional company. By adhering to the data analysis process stages of **Ask, Prepare, Process, Analyze, Share, and Act**, I aim to address crucial business inquiries and generate actionable insights.
