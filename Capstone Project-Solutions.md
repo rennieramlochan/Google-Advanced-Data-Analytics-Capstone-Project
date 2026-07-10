@@ -1,5 +1,5 @@
 # Cyclistic Case Study using SQL and Tableau
-#### Prepared by: Edward Aguilar
+
 
 ## Introduction
 This project serves as the culminating assignment for my Google Data Analytics course, focusing on utilizing SQL and Tableau. Within this case study, I will simulate the responsibilities of a junior data analyst at Cyclistic, a fictional company. By adhering to the data analysis process stages of **Ask, Prepare, Process, Analyze, Share, and Act**, I aim to address crucial business inquiries and generate actionable insights.
@@ -63,3 +63,4 @@ To convert casual riders into annual members, here are my recommendations:
 5. Gather Feedback and Adapt: Continuously seek feedback from casual riders who have become annual members to understand their needs and preferences better. Adapt membership offerings and benefits accordingly to improve the conversion rate and retention of casual riders as annual members.
 
 By implementing these recommendations, it is possible to attract more casual riders and successfully convert them into loyal annual members, ultimately growing the customer base and promoting long-term engagement with the bike-sharing service.
+References:Edward Aguilar
