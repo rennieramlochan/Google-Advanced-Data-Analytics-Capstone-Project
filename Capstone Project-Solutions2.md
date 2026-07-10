@@ -195,3 +195,5 @@ To share my results, I created two visualizations by exporting my `avg_minutes` 
 1. Casual riders tend to ride for more minutes on average so Cyclistic could advertise how much these casual riders would be able to save if they joined the annual membership. After the casual rider finishes their trip, the app could compare their current rates with the rates of annual members and offer a retroactive discount if they sign up immediately.
 2. Riders use Cyclistic bikes for longer on the weekends. Cyclistic could offer a limited time deal to new annual members that offers free or greatly discounted weekends.
 3. Classic bikes have a higher average use time than electric bikes for casual riders. Cyclistic could advertise a discounted rate for annual members who ride classic bikes.
+
+4. References:https://github.com/CodyBarnesCS/Google-Data-Analytics-Capstone-Project
